@@ -1,6 +1,6 @@
 # Rental Jeep Kaliurang
 
-![Rental Jeep Kaliurang Logo](https://github.com/oalalif/Rental-Jeep-Kaliurang2/logo.jpeg)
+![Rental Jeep Kaliurang Logo](https://github.com/oalalif/Rental-Jeep-Kaliurang2/blob/main/logo.jpeg)
 
 Selamat datang di Aplikasi Rental Jeep Kaliurang! Aplikasi ini memungkinkan Anda untuk menyewa jeep dengan mudah dan nyaman dengan fitur pencatatan transaksi dan penghitungan biaya.
 
@@ -41,10 +41,10 @@ Button untuk keluar dari aplikasi. Sebelum keluar ada pop-up konfirmasi untuk ya
 
 ### Tampilan Sebelum Input
 
-![Sebelum Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/sebelum.png)
+![Sebelum Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/blob/main/sebelum.png)
 
 ### Tampilan Setelah Input
-![Setelah Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/setelah.png)
+![Setelah Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/blob/main/setelah.png)
 
 ...
 
@@ -59,9 +59,11 @@ Button untuk keluar dari aplikasi. Sebelum keluar ada pop-up konfirmasi untuk ya
 
 Anda dapat berkontribusi dengan membuat _fork_ dan mengirimkan _pull request_.
 
+
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
+
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -95,10 +97,8 @@ class name in the manifest Main-Class element.
 ## 📑 License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[Rental-Jeep-Kaliurang](https://github.com/oalalif/Rental-Jeep-Kaliurang/) is Free Java Archieve: You can use, study share and improve it at your
+[Rental-Jeep-Kaliurang](https://github.com/oalalif/Rental-Jeep-Kaliurang2/) is Free Java Archieve: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
-
-//
