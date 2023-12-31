@@ -1,6 +1,6 @@
 # Rental Jeep Kaliurang
 
-![Rental Jeep Kaliurang Logo](https://github.com/oalalif/logo.jpeg)
+![Rental Jeep Kaliurang Logo](https://github.com/oalalif/Rental-Jeep-Kaliurang2/logo.jpeg)
 
 Selamat datang di Aplikasi Rental Jeep Kaliurang! Aplikasi ini memungkinkan Anda untuk menyewa jeep dengan mudah dan nyaman dengan fitur pencatatan transaksi dan penghitungan biaya.
 
@@ -41,10 +41,10 @@ Button untuk keluar dari aplikasi. Sebelum keluar ada pop-up konfirmasi untuk ya
 
 ### Tampilan Sebelum Input
 
-![Sebelum Input](https://github.com/oalalif/sebelum.png)
+![Sebelum Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/sebelum.png)
 
 ### Tampilan Setelah Input
-![Setelah Input](https://github.com/oalalif/setelah.png)
+![Setelah Input](https://github.com/oalalif/Rental-Jeep-Kaliurang2/setelah.png)
 
 ...
 
